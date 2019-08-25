@@ -1,0 +1,12 @@
+BeautifulSoup4
+request
+geopy
+opencage
+json
+numpy
+pandas
+matplotlib
+seaborn
+folium
+wordcloud
+sklearn
